@@ -6,7 +6,7 @@
 
 ## 使用範例
 
-![aiex](assets\ex2.png)
-![searchex](assets\ex1.png)
+![aiex](assets/ex2.png)
+![searchex](assets/ex1.png)
 
 
